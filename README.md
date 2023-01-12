@@ -21,5 +21,5 @@ Il faut remplacer "[yourIpAddress]" par votre adresse ip.
 
 # Backend
 
-Pour faire fonctionner le projet, il faudra cloner le repository pour le backend à l'adresse suivante : https://github.com/Fayhard/DoneWithItBackend.\
+Pour faire fonctionner le projet, il faudra cloner le repository pour le backend à l'adresse suivante : https://github.com/Fayhard/DoneWithItBackend \
 Il faudra ensuite suivre les indications fournies dans le Readme du projet pour pouvoir l'installer et le démarer.
